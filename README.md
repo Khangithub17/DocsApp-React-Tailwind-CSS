@@ -13,4 +13,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-![Alt text](https://github.com/Khangithub17/DocsApp-React-Tailwind-CSS/assets/121373547/d581a7e6-c4cb-4413-b47c-9e53c8ae83af)
+![Alt text](https://github.com/Khangithub17/DocsApp-React-Tailwind-CSS/assets/121373547/cd9123e7-f30e-466a-9d49-245f3279ac38)
